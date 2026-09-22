@@ -1,0 +1,8 @@
+{
+    "name": "lucas-reategui",
+    "description": "Projeto de Personalização dos produtos da Health Plast",
+    "type": "project",
+    "require": {
+        "php": ">=8.4"
+    }
+}
